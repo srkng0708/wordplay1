@@ -172,6 +172,11 @@ h5 {
   font-size: 60px;
 }
 
+.links:hover {
+  color: #FFD700;
+  text-decoration: none;
+}
+
 @media screen and (max-height: 450px) {
   .overlay {overflow-y: auto;}
   .overlay a {font-size: 20px}
